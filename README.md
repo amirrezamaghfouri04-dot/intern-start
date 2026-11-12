@@ -1,0 +1,1 @@
+For First time, I succeeded to write a commit in git and push this file to my repository.
