@@ -1,7 +1,7 @@
 من امیررضا مغفوری هستم و این اولین repo من است. این repo نامش intern start است و صرفا یک repo آموزشی است.
 فایل ها به این صورت هستند:
-hello.py
-quiz.py
+hello.py,
+quiz.py,
 echo-mini.py
 
 
